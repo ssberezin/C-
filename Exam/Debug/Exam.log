@@ -1,0 +1,6 @@
+﻿  Admin.cpp
+  FileProc.cpp
+  main.cpp
+d:\step\oop\examtask\exam\exam\main.cpp(5): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  Exam.vcxproj -> D:\STEP\OOP\ExamTask\Exam\Debug\Exam.exe

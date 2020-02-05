@@ -1,0 +1,16 @@
+﻿  Test.cpp
+f:\step\oop\exam_encript — копия\exam_encript\exam\exam\test.cpp(92): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+f:\step\oop\exam_encript — копия\exam_encript\exam\exam\test.cpp(249): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Student.cpp
+  Persone.cpp
+  myErr.cpp
+  Menu.cpp
+f:\step\oop\exam_encript — копия\exam_encript\exam\exam\menu.cpp(10): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+f:\step\oop\exam_encript — копия\exam_encript\exam\exam\menu.cpp(18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  FileProc.cpp
+  Admin.cpp
+  Generating Code...
+f:\step\oop\exam_encript — копия\exam_encript\exam\exam\student.cpp(407): warning C4715: 'Student::CheckLogPass': not all control paths return a value
+  Exam.vcxproj -> F:\STEP\OOP\Exam_encript — копия\Exam_encript\Exam\x64\Debug\Exam.exe
+  Exam.vcxproj -> F:\STEP\OOP\Exam_encript — копия\Exam_encript\Exam\x64\Debug\Exam.pdb (Partial PDB)

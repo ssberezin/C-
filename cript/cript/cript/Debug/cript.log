@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\step\oop\exam\cript\cript\cript\main.cpp(21): warning C4018: <=: несоответствие типов со знаком и без знака
+e:\step\oop\exam\cript\cript\cript\main.cpp(23): warning C4244: инициализация: преобразование "double" в "char", возможна потеря данных
+  cript.vcxproj -> E:\STEP\OOP\Exam\cript\cript\Debug\cript.exe
